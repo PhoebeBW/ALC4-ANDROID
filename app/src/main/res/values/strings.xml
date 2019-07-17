@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_botswana">Country: Botswana</string>
+    <string name="email_bpmaplanka_gmail_com">Email: bpmaplanka@gmail.com</string>
+    <string name="phone_number_267_73_776_923">Phone Number: +267 73 776 923</string>
+    <string name="slack_username_phoebebw">Slack Username: PhoebeBW</string>
+    <string name="profile_picture">profile_picture</string>
+    <string name="about_alc_activity">About ALC</string>
+    <string name="my_profile_activity">My Profile</string>
+    <string name="name_phoebe_maplanka">Phoebe Maplanka</string>
+    <string name="welcome_to_alc_4_0">WELCOME TO ALC 4.0</string>
+
+</resources>
